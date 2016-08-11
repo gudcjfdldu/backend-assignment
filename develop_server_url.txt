@@ -1,0 +1,1 @@
+http://54.238.190.218:8887/classify?name=%EC%A1%B0%EB%81%BC&img=http://shopping.phinf.naver.net/main_8134935/8134935099.1.jpg
